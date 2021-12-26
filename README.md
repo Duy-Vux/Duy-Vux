@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Duy (Jay) Vu and I'm pursuing my Bachelors in Computer Science & Business Analytics
+- 👋 Hi, I’m Duy (Jay) Vu and I'm pursuing my Bachelor's Degree in Computer Science & Business Analytics
 - 👀 I’m interested in Data Science, Data Analytics, and Software Development
-- 🌱 I’m currently perfecting my SQL and Python skills as well as other programming skills
+- 🌱 I’m currently perfecting my SQL and Python skills as well as other programming and data analytics skills
 - 📫 Contact me on LinkedIn: https://www.linkedin.com/in/duy-truong-vu/
 
 <!---
