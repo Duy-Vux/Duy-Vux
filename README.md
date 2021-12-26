@@ -2,7 +2,7 @@
 - 🏫 I'm pursuing my Bachelor's Degree in Computer Science & Business Analytics
 - 👀 I’m interested in Data Science, Data Analytics, and Software Development
 - 🔭 I’m currently working on Visualization of Probabilistic Weather Forecasting with The Weather Company (IBM) 
-- 🌱 I’m currently perfecting my SQL and Python skills as well as other programming and data analytics skills
+- 🌱 I’m currently perfecting my Python and SQL skills as well as other programming and data analytics skills
 - 📫 Contact me via email: duyvux5765@gmail.com
 - https://www.linkedin.com/in/duy-truong-vu/
 
