@@ -1,6 +1,8 @@
-<img src="https://github.com/Duy-Vux/Duy-Vux/blob/main/header.jpg">
-<h1 align="center">👋 Hi, I’m Duy (Jay) Vu </h1>
-🏫 I'm pursuing my **Bachelor's Degree in Computer Science & Business Analytics** <br>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+<h1 align="center"> Hi, I’m Duy (Jay) Vu, a Data Analyst Enthusiast and a full-time College Student at Fairfield University</h1>
+🏫 I'm pursuing my Bachelor's Degree in Computer Science & Business Analytics** <br>
 👀 I’m interested in **Data Science, Data Analytics, and Software Development** <br>
 🔭 I’m currently working on **Visualization of Probabilistic Weather Forecasting with The Weather Company (IBM)** <br>
 🌱 I’m currently learning **MongoDB** <br>
@@ -8,9 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/duy-truong-vu/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="adi11" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/duy-truong-vu/" target="_blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=linkedin height="30" width="40" />
+</a><br><br>
 <a href="https://github.com/Duy-Vux" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github height="30" />
 </a>
 </p> 
 
