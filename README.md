@@ -2,12 +2,12 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-<h1 align="center"> Hi, I’m Duy (Jay) Vu, a Data Analyst Enthusiast and a full-time College Student at Fairfield University</h1>
+<h1 align="center"> Hi, I’m Duy (Jay) Vu, a Software Engineer Enthusiast and a full-time College Student at Fairfield University</h1>
 
 🏫 I'm pursuing my **Bachelor's Degree in Computer Science & Business Analytics** <br>
-👀 I’m interested in __Data Science, Data Analytics, and Software Development__ <br>
+👀 I’m interested in __Software Development and Data Science__ <br>
 🔭 I’m currently working on **Visualization of Probabilistic Weather Forecasting with The Weather Company (IBM)** <br>
-🌱 I’m currently learning **MongoDB, TensorFlow, and PyTorch** <br>
+🌱 I’m currently learning **C#, ASP.Net, and AWS** <br>
 📫 Contact me via email: **duyvux5765@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
