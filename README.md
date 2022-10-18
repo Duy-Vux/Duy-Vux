@@ -6,8 +6,8 @@
 
 🏫 I'm pursuing my **Bachelor's Degree in Computer Science & Business Analytics** <br>
 👀 I’m interested in __Software Development and Data Science__ <br>
-🔭 I’m currently working on **Visualization of Probabilistic Weather Forecasting with The Weather Company (IBM)** <br>
-🌱 I’m currently learning **C#, ASP.Net, and AWS** <br>
+🔭 I’m currently working on **RealXR** <br>
+🌱 I’m currently learning **C#, Unity, and AWS** <br>
 📫 Contact me via email: **duyvux5765@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
