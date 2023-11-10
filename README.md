@@ -6,8 +6,8 @@
 
 🏫 I graduated with a **Bachelor's Degree in Computer Science & Business Analytics** <br>
 👀 I’m interested in __Software Development__ <br>
-🔭 I’m currently working on **RealXR** <br>
-🌱 I’m currently learning **C#, Unity, and AWS** <br>
+🔭 I’m currently working on **gallerzy** <br>
+🌱 I’m currently learning **Swift** <br>
 📫 Contact me via email: **duyvux5765@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
