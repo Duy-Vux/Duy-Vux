@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-<h1 align="center"> Hi, I’m Duy (Jay) Vu, a Software Engineer Enthusiast</h1>
+<h1 align="center"> Hi, I’m Duy (Jay) Vu, a Software Engineering Enthusiast</h1>
 
 🏫 I graduated with a **Bachelor's Degree in Computer Science & Business Analytics** <br>
 👀 I’m interested in __Software Development__ <br>
